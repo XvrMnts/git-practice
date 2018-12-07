@@ -1,3 +1,5 @@
 afegim fitxers
 
 git add <file>
+
+git commit
